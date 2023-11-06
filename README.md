@@ -4,7 +4,7 @@
 
 ## 目录
 
-- [单元 4 - DQTI 评分表]([https://github.com/AI-Assisted-Technical-Communication/AITC-Work-Collection/tree/main/Unit%204%20-%20%E6%8A%80%E6%9C%AF%E5%8D%8F%E4%BD%9C%E8%A7%84%E5%88%92%E4%B8%8E%E5%BC%80%E5%8F%91%E9%98%B6%E6%AE%B5](https://github.com/AI-Assisted-Technical-Communication/AITC-Work-Collection/tree/main/%E5%8D%95%E5%85%83%204%20-%20%E6%8A%80%E6%9C%AF%E5%8D%8F%E4%BD%9C%E8%A7%84%E5%88%92%E4%B8%8E%E5%BC%80%E5%8F%91%E9%98%B6%E6%AE%B5)https://github.com/AI-Assisted-Technical-Communication/AITC-Work-Collection/tree/main/%E5%8D%95%E5%85%83%204%20-%20%E6%8A%80%E6%9C%AF%E5%8D%8F%E4%BD%9C%E8%A7%84%E5%88%92%E4%B8%8E%E5%BC%80%E5%8F%91%E9%98%B6%E6%AE%B5)
+- [单元 4 - DQTI 评分表]([https://github.com/AI-Assisted-Technical-Communication/AITC-Work-Collection/tree/main/%E5%8D%95%E5%85%83%204%20-%20%E6%8A%80%E6%9C%AF%E5%8D%8F%E4%BD%9C%E8%A7%84%E5%88%92%E4%B8%8E%E5%BC%80%E5%8F%91%E9%98%B6%E6%AE%B5)
 
 ## 注意事项
 
