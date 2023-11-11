@@ -4,7 +4,7 @@
 
 ## 目录
 
-- [AITC 第3讲 技术写作规划&开发](https://github.com/AI-Assisted-Technical-Communication/AITC-Work-Collection/tree/main/%E5%8D%95%E5%85%83%204%20-%20%E6%8A%80%E6%9C%AF%E5%86%99%E4%BD%9C%E8%A7%84%E5%88%92%E4%B8%8E%E5%BC%80%E5%8F%91%E9%98%B6%E6%AE%B5)
+- [AITC 第3讲 技术写作规划&开发](https://github.com/AI-Assisted-Technical-Communication/AITC-Work-Collection/tree/main/AITC%E7%AC%AC3%E8%AE%B2%20-%20%E6%8A%80%E6%9C%AF%E5%86%99%E4%BD%9C%E8%A7%84%E5%88%92%26%E5%BC%80%E5%8F%91)
 
 ## 注意事项
 
